@@ -1,4 +1,4 @@
-#Dart Coding Exercises: 51 Practice Problems
+**Dart Coding Exercises: 51 Practice Problems**
 
 This repository contains 51 carefully curated Dart coding exercises designed to help developers improve their skills. These exercises cover a variety of topics ranging from beginner to advanced, making it an excellent resource for:
 
