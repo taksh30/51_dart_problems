@@ -8,3 +8,7 @@ Learning Dart: A great way to deepen your understanding of Dart programming by a
 Skill Development: Whether you’re a beginner or an experienced developer, these exercises will help sharpen your Dart knowledge.
 
 Each exercise is designed to improve both your understanding of the language and your problem-solving abilities. Feel free to use this repository as a reference, and don't hesitate to contribute by solving more problems or improving the existing ones.
+
+![dart ex](https://github.com/user-attachments/assets/0e446a26-ac45-438a-bfd8-28b4779f0a8b)
+![dart ex2](https://github.com/user-attachments/assets/1bfd926e-d97a-42aa-b008-67f6052bd4d2)
+
